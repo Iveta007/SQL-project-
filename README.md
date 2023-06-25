@@ -4,8 +4,8 @@ Projekt ENGETO SQL , DATOVÁ AKADEMIE - studijní skupina  19.4.2023
 OBSAH
 
 I.	Příprava datového podkladu   t_iveta¬_vamberska_project_SQL_primary_final   
-II.	Zodpovězení výzkumných otázek 1.-4.
- III.	Příprava datového podkladu   t_iveta¬_vamberska_project_SQL_secondary_final   
+II.	Zodpovězení výzkumných otázek 1.-4.       
+III.	Příprava datového podkladu   t_iveta¬_vamberska_project_SQL_secondary_final   
 IV.	Zodpovězení výzkumné otázky 5.
 
 
